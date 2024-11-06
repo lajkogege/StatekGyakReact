@@ -1,0 +1,9 @@
+.konyv {
+    border: 4px solid black;
+    border-radius: 10px;
+    width: auto;
+    margin: 10px;
+    padding: 10px;
+    background-color: aliceblue;
+}
+
